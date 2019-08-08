@@ -14,9 +14,13 @@ body{
 }
 .Engineer_Description{
     font-size: 50px;
+    padding-right: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .vision_description{
     font-size: 50px;
+    padding-left: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 /*background color needs to be adjusted*/
 .left{
@@ -37,7 +41,8 @@ a{
     padding-bottom: 60%;
     font-size: 30px;
     color:white;
+    text-decoration: none;
 }
 img{
-    width: 200px;
+    width: 400px;
 }
