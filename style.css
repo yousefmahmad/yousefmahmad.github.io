@@ -1,0 +1,38 @@
+/*wrapper to correctly format*/
+section{
+    display:flex;
+}
+.right{
+    display:flex;
+    flex-direction: row;
+    padding: 38%;
+}
+.Engineer_Description{
+    padding-right: 20%;
+    font-size: 50px;
+}
+.vision_description{
+    padding-left: 20%;
+    font-size: 50px;
+}
+/*background color needs to be adjusted*/
+.left{
+    background-color:rgba(99, 0, 153, 0.46);
+    display:flex;
+    flex-direction: column;
+    width: 10%;
+    padding-right:25%;
+    margin: 0 10px 0px 0;
+}
+ul{
+    padding-bottom: 700px;
+}
+a{
+    display: flex;
+    padding-bottom: 60%;
+    font-size: 30px;
+    color:white;
+}
+img{
+    width: 100px;
+}
