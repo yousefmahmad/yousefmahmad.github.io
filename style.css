@@ -37,6 +37,7 @@ ul{
     flex-direction: column;
 }
 a{
+    font-family: 'Roboto', sans-serif;
     display: flex;
     padding-bottom: 60%;
     font-size: 30px;
